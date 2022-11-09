@@ -3,7 +3,7 @@
 
 A multiplayer card game
 
-![alt tag](images/bluff.jpg)
+![alt tag](/iee-ihu-gr-course1941/ADISE22_Bluff2/blob/main/images/Bluff.jpg)
 
 Author: Stratos Skarlatos, Dimitrios Kyriakidis
 
